@@ -1,0 +1,15 @@
+{
+  "name": "2_pm",
+  "version": "1.0.0",
+  "description": "Google Map API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mo",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "dotenv": "^6.2.0"
+  }
+}
